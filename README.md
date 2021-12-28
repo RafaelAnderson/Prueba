@@ -5,8 +5,8 @@ for(int i = 0; i < 10; i++) {
 printf(“Valor de i = %d”, i)
 }
 ```
-- uno
+1. uno
 * A
 * B
-- dos
-- tres
+2. dos
+3. tres
