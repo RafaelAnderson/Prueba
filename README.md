@@ -6,5 +6,7 @@ printf(“Valor de i = %d”, i)
 }
 ```
 - uno
+* A
+* B
 - dos
 - tres
